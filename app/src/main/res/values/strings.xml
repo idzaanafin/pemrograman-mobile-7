@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Langkah Sehat</string>
+    <string name="greeting">Langkah sehatmu</string>
+    <string name="subtitle">Pantau aktivitas hari ini dengan mudah.</string>
+    <string name="today_label">TOTAL LANGKAH HARI INI</string>
+    <string name="goal_format">Target %1$s langkah</string>
+    <string name="status_title">Status sensor</string>
+    <string name="permission_needed">Izin aktivitas fisik diperlukan untuk mulai membaca langkah.</string>
+    <string name="permission_denied">Izin aktivitas fisik ditolak. Aktifkan izin di Pengaturan untuk membaca langkah.</string>
+    <string name="sensor_unavailable">Sensor langkah tidak tersedia di perangkat ini.</string>
+    <string name="sensor_error">Sensor langkah gagal diaktifkan.</string>
+    <string name="counter_active">Sensor langkah aktif dan menghitung langkah harian.</string>
+    <string name="detector_active">Mode detector aktif. Hitungan dapat kurang akurat dibanding sensor counter.</string>
+    <string name="reset_button">Reset hitungan</string>
+    <string name="reset_success">Hitungan langkah sudah direset ke 0.</string>
+    <string name="reset_waiting_for_sensor">Tunggu pembacaan sensor pertama sebelum mereset.</string>
+    <string name="sensor_dashboard">Sensor kesehatan</string>
+    <string name="movement_waiting">Gerakan: menunggu accelerometer...</string>
+    <string name="movement_resting">Gerakan: sedang diam</string>
+    <string name="movement_walking">Gerakan: berjalan ringan</string>
+    <string name="movement_active">Gerakan: aktif</string>
+    <string name="accelerometer_unavailable">Accelerometer tidak tersedia.</string>
+    <string name="pressure_waiting">Barometer: menunggu data...</string>
+    <string name="pressure_unavailable">Barometer tidak tersedia.</string>
+    <string name="pressure_format">Barometer: %1$.1f hPa | perubahan %2$.1f m</string>
+    <string name="gps_waiting">GPS: menunggu lokasi...</string>
+    <string name="gps_searching">GPS: mencari lokasi...</string>
+    <string name="gps_unavailable">GPS tidak tersedia.</string>
+    <string name="gps_format">GPS: %1$.2f km | kecepatan %2$.1f km/jam</string>
+</resources>
